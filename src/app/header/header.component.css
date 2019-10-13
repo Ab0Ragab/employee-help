@@ -1,0 +1,12 @@
+.bg-dark {
+    background-color: #664466 !important;
+}
+
+.btn-outline-primary{
+    color: rgba(255,255,255,.5);
+}
+
+.dropdown-menu
+{
+    min-width: 25px;
+}
